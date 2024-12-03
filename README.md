@@ -23,7 +23,8 @@
   <a href="mailto:gourab@ieee.org" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" 
          alt="Gmail Logo" style="width:30px;height:auto;vertical-align:middle;">
-  </a>  
+  </a>
+- My previous account GourabGD7 has been locked. This is my new account.
 
 ---
 
