@@ -66,7 +66,7 @@
 ---
 
 <div align="left">
-  © 2024 All rights reserved.
+  © 2025 All rights reserved.
 </div>
 <div align="right">
   Developed & Maintained by Ghost
